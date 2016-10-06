@@ -2,7 +2,7 @@
 
 void foo1()
 {
-	printf("kakakakghahahahahahahahahah");
+	printf("hhhhhhhhhhhhhaaaaaaaaaa");
 	return;
 }
 
