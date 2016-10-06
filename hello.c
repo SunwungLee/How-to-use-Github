@@ -3,7 +3,6 @@
 void main(void)
 {
 	printf("git test\n");
-	printf("1st correction\n");
-	printf("2nd correction\n");
+	printf("3rd correction 1,2 erased");
 	return;
 }
