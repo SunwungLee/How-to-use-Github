@@ -2,7 +2,7 @@
 
 void foo1()
 {
-	printf("1st corr another branch");
+	printf("3rd bug456 fixed");
 	printf("2nd bug456 correct");
 	return;
 }
