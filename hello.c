@@ -12,5 +12,6 @@ void main(void)
 	printf("3rd correction 1,2 erased");
 	foo();
 	printf("gogo git hub!! \n");
+	printf("lego git hub!! \n");
 	return;
 }
