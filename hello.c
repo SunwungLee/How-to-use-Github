@@ -3,6 +3,7 @@
 void foo1()
 {
 	printf("kakakakghahahahahahahahahah");
+	printf("kkkkkkkkkkkkkkkkkkkkkkaaaaaaaaaaaa");
 	return;
 }
 
