@@ -2,8 +2,7 @@
 
 void foo1()
 {
-	printf("1st corr another branch");
-	printf("1st switch in master");
+	printf("kakakakghahahahahahahahahah");
 	return;
 }
 
